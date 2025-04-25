@@ -53,6 +53,7 @@ public class HomeworkOne {
             for (int i = 1; i <= 4; i++) {
             System.out.printf("%d   %d    %d\n", i, i * i, i * i * i);
         }
+            
     }
 
     public static void compute() {
